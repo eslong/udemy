@@ -6,7 +6,7 @@ Current Udemy courses:
   - The Ultimate Hands-On Hadoop - Tame Your Big Data! (https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data)
   - The Web Developer Bootcamp (https://www.udemy.com/the-web-developer-bootcamp)
   - Learn Advanced C++ Programming (https://www.udemy.com/learn-advanced-c-programming)
-  - The Un real Engine Developer Course - Learn C++ & Make Games (https://www.udemy.com/unrealcourse)
+  - The Unreal Engine Developer Course - Learn C++ & Make Games (https://www.udemy.com/unrealcourse)
   - Learn to Code by Making Games - Complete C# Unity Developer (https://www.udemy.com/unitycourse)
   - Pixel art for Video Games (https://www.udemy.com/pixel-art-for-video-games)
   - RPG Core Combat Creator - Unity 2017 Compatible in C# (https://www.udemy.com/unityrpg)
