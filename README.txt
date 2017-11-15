@@ -13,4 +13,3 @@ Current Udemy courses:
   - RPG Core Combat Creator - Unity 2017 Compatible in C# (https://www.udemy.com/unityrpg)
 
 Udemy courses I am interested in starting:
-  - Modern React with Redux (https://www.udemy.com/react-redux/)
